@@ -1,8 +1,6 @@
 # COT-4500-as3
-# COT-4500-As2
 
-Contains implementations of numerical algorithms from Chapter 3.
-Also contains the assignment pdf with solutions written out by hand alongside program output
+Contains implementations of numerical algorithms from Chapter 5.
 
 ## Directory Structure
 
@@ -23,7 +21,7 @@ Also contains the assignment pdf with solutions written out by hand alongside pr
 
 To execute the test cases, navigate to the `test` folder and run:
 
-   python3 test_assignments_2.py
+   python3 test_assignment_3.py
 
 (Default values are provided in the test cases.)
 
